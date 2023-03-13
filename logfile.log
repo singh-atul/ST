@@ -1,0 +1,258 @@
+2023-03-11 10:10:22,155 ************************** Test Execution Started ************************************ 
+2023-03-11 10:10:29,257 Facebook login test: Test started 
+2023-03-11 10:10:29,257 Google search test: Test started 
+2023-03-11 10:10:35,732 Google search test : Test Passed 
+2023-03-11 10:10:39,171 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2023-03-11 10:10:41,172 Total number of testcases : 2 
+2023-03-11 10:10:41,172 Number of testcases Passed : 1 
+2023-03-11 10:10:41,172 Number of testcases Failed : 1 
+2023-03-11 10:10:41,172 Number of testcases Skipped  : 0 
+2023-03-11 10:10:41,183 Mail sending toggel is set to false 
+2023-03-11 10:10:41,183 Mail sent : false 
+2023-03-11 10:10:41,184 ************************** Test Execution Finished ************************************ 
+2023-03-11 10:10:56,625 ************************** Test Execution Started ************************************ 
+2023-03-11 10:10:59,800 Google search test: Test started 
+2023-03-11 10:10:59,800 Facebook login test: Test started 
+2023-03-11 10:11:05,915 Google search test : Test Passed 
+2023-03-11 10:11:08,908 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2023-03-11 10:11:10,271 Total number of testcases : 2 
+2023-03-11 10:11:10,271 Number of testcases Passed : 1 
+2023-03-11 10:11:10,271 Number of testcases Failed : 1 
+2023-03-11 10:11:10,271 Number of testcases Skipped  : 0 
+2023-03-11 10:11:10,272 Mail sending toggel is set to false 
+2023-03-11 10:11:10,272 Mail sent : false 
+2023-03-11 10:11:10,272 ************************** Test Execution Finished ************************************ 
+2023-03-11 10:11:39,782 ************************** Test Execution Started ************************************ 
+2023-03-11 10:11:42,660 Google search test: Test started 
+2023-03-11 10:11:42,660 Facebook login test: Test started 
+2023-03-11 10:11:48,316 Google search test : Test Passed 
+2023-03-11 10:11:51,327 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2023-03-11 10:11:53,523 Total number of testcases : 2 
+2023-03-11 10:11:53,523 Number of testcases Passed : 1 
+2023-03-11 10:11:53,523 Number of testcases Failed : 1 
+2023-03-11 10:11:53,523 Number of testcases Skipped  : 0 
+2023-03-11 10:11:53,525 Mail sending toggel is set to false 
+2023-03-11 10:11:53,525 Mail sent : false 
+2023-03-11 10:11:53,525 ************************** Test Execution Finished ************************************ 
+2023-03-11 11:46:33,487 ************************** Test Execution Started ************************************ 
+2023-03-11 11:46:36,835 Google search test: Test started 
+2023-03-11 11:46:36,835 Facebook login test: Test started 
+2023-03-11 11:46:42,127 Google search test : Test Passed 
+2023-03-11 11:46:45,993 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2023-03-11 11:46:46,911 Total number of testcases : 2 
+2023-03-11 11:46:46,911 Number of testcases Passed : 1 
+2023-03-11 11:46:46,911 Number of testcases Failed : 1 
+2023-03-11 11:46:46,911 Number of testcases Skipped  : 0 
+2023-03-11 11:46:46,921 Mail sending toggel is set to false 
+2023-03-11 11:46:46,921 Mail sent : false 
+2023-03-11 11:46:46,921 ************************** Test Execution Finished ************************************ 
+2023-03-11 11:47:58,894 ************************** Test Execution Started ************************************ 
+2023-03-11 11:48:01,442 Google search test: Test started 
+2023-03-11 11:48:01,442 Facebook login test: Test started 
+2023-03-11 11:48:07,108 Google search test : Test Passed 
+2023-03-11 11:48:09,190 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2023-03-11 11:48:09,710 Total number of testcases : 2 
+2023-03-11 11:48:09,710 Number of testcases Passed : 1 
+2023-03-11 11:48:09,710 Number of testcases Failed : 1 
+2023-03-11 11:48:09,710 Number of testcases Skipped  : 0 
+2023-03-11 11:48:09,712 Mail sending toggel is set to false 
+2023-03-11 11:48:09,712 Mail sent : false 
+2023-03-11 11:48:09,712 ************************** Test Execution Finished ************************************ 
+2023-03-11 11:51:08,182 ************************** Test Execution Started ************************************ 
+2023-03-11 11:51:10,791 Facebook login test: Test started 
+2023-03-11 11:51:10,791 Google search test: Test started 
+2023-03-11 11:51:18,034 Google search test : Test Passed 
+2023-03-11 11:51:19,764 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2023-03-11 11:51:20,318 Total number of testcases : 2 
+2023-03-11 11:51:20,318 Number of testcases Passed : 1 
+2023-03-11 11:51:20,318 Number of testcases Failed : 1 
+2023-03-11 11:51:20,318 Number of testcases Skipped  : 0 
+2023-03-11 11:51:20,328 Mail sending toggel is set to false 
+2023-03-11 11:51:20,328 Mail sent : false 
+2023-03-11 11:51:20,328 ************************** Test Execution Finished ************************************ 
+2023-03-11 11:53:22,398 ************************** Test Execution Started ************************************ 
+2023-03-11 11:53:25,341 Google search test: Test started 
+2023-03-11 11:53:31,562 Google search test : Test Passed 
+2023-03-11 11:53:32,072 Total number of testcases : 1 
+2023-03-11 11:53:32,072 Number of testcases Passed : 1 
+2023-03-11 11:53:32,072 Number of testcases Failed : 0 
+2023-03-11 11:53:32,072 Number of testcases Skipped  : 0 
+2023-03-11 11:53:32,088 Mail sending toggel is set to false 
+2023-03-11 11:53:32,088 Mail sent : false 
+2023-03-11 11:53:32,088 ************************** Test Execution Finished ************************************ 
+2023-03-11 11:54:50,492 ************************** Test Execution Started ************************************ 
+2023-03-11 11:54:53,428 Google search test: Test started 
+2023-03-11 11:55:05,111 Google search test : Test Passed 
+2023-03-11 11:55:06,527 Total number of testcases : 1 
+2023-03-11 11:55:06,527 Number of testcases Passed : 1 
+2023-03-11 11:55:06,527 Number of testcases Failed : 0 
+2023-03-11 11:55:06,527 Number of testcases Skipped  : 0 
+2023-03-11 11:55:06,528 Mail sending toggel is set to false 
+2023-03-11 11:55:06,528 Mail sent : false 
+2023-03-11 11:55:06,529 ************************** Test Execution Finished ************************************ 
+2023-03-11 12:00:18,926 ************************** Test Execution Started ************************************ 
+2023-03-11 12:00:21,454 Google search test: Test started 
+2023-03-11 12:00:40,941 Google search test : Test Passed 
+2023-03-11 12:00:41,979 Total number of testcases : 1 
+2023-03-11 12:00:41,980 Number of testcases Passed : 1 
+2023-03-11 12:00:41,980 Number of testcases Failed : 0 
+2023-03-11 12:00:41,980 Number of testcases Skipped  : 0 
+2023-03-11 12:00:41,981 Mail sending toggel is set to false 
+2023-03-11 12:00:41,981 Mail sent : false 
+2023-03-11 12:00:41,982 ************************** Test Execution Finished ************************************ 
+2023-03-11 12:21:06,234 ************************** Test Execution Started ************************************ 
+2023-03-11 12:21:09,911 Google search test: Test started 
+2023-03-11 12:21:34,241 Google search test : Test Failed : no such element: Unable to locate element: {"method":"css selector","selector":".bmaJhd\ iJddsb"}
+  (Session info: chrome=110.0.5481.178)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-HA83NQG', ip: '192.168.100.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.178, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\ANKITT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63384}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 05786a11320eee12167e28e102ceb1f7
+*** Element info: {Using=class name, value=bmaJhd iJddsb} 
+2023-03-11 12:21:35,938 Total number of testcases : 1 
+2023-03-11 12:21:35,939 Number of testcases Passed : 0 
+2023-03-11 12:21:35,939 Number of testcases Failed : 1 
+2023-03-11 12:21:35,939 Number of testcases Skipped  : 0 
+2023-03-11 12:21:35,943 Mail sending toggel is set to false 
+2023-03-11 12:21:35,943 Mail sent : false 
+2023-03-11 12:21:35,943 ************************** Test Execution Finished ************************************ 
+2023-03-11 12:22:03,553 ************************** Test Execution Started ************************************ 
+2023-03-11 12:22:07,268 Google search test: Test started 
+2023-03-11 12:22:30,817 Google search test : Test Failed : no such element: Unable to locate element: {"method":"css selector","selector":".bmaJhd\ iJddsb"}
+  (Session info: chrome=110.0.5481.178)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-HA83NQG', ip: '192.168.100.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.178, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\ANKITT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63477}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f62cbd5f68129de4be8b15c6c0cd17b7
+*** Element info: {Using=class name, value=bmaJhd iJddsb} 
+2023-03-11 12:22:32,663 Total number of testcases : 1 
+2023-03-11 12:22:32,663 Number of testcases Passed : 0 
+2023-03-11 12:22:32,663 Number of testcases Failed : 1 
+2023-03-11 12:22:32,663 Number of testcases Skipped  : 0 
+2023-03-11 12:22:32,668 Mail sending toggel is set to false 
+2023-03-11 12:22:32,668 Mail sent : false 
+2023-03-11 12:22:32,668 ************************** Test Execution Finished ************************************ 
+2023-03-11 12:23:45,157 ************************** Test Execution Started ************************************ 
+2023-03-11 12:23:49,455 Google search test: Test started 
+2023-03-11 12:24:12,647 Google search test : Test Failed : no such element: Unable to locate element: {"method":"css selector","selector":".bmaJhd\ iJddsb"}
+  (Session info: chrome=110.0.5481.178)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-HA83NQG', ip: '192.168.100.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.178, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\ANKITT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63587}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 16a3951977bceb3c36aca2fc821e8a52
+*** Element info: {Using=class name, value=bmaJhd iJddsb} 
+2023-03-11 12:24:14,313 Total number of testcases : 1 
+2023-03-11 12:24:14,313 Number of testcases Passed : 0 
+2023-03-11 12:24:14,313 Number of testcases Failed : 1 
+2023-03-11 12:24:14,313 Number of testcases Skipped  : 0 
+2023-03-11 12:24:14,316 Mail sending toggel is set to false 
+2023-03-11 12:24:14,316 Mail sent : false 
+2023-03-11 12:24:14,316 ************************** Test Execution Finished ************************************ 
+2023-03-11 12:25:53,980 ************************** Test Execution Started ************************************ 
+2023-03-11 12:25:57,750 Google search test: Test started 
+2023-03-11 12:26:17,946 Google search test : Test Passed 
+2023-03-11 12:26:19,224 Total number of testcases : 1 
+2023-03-11 12:26:19,224 Number of testcases Passed : 1 
+2023-03-11 12:26:19,224 Number of testcases Failed : 0 
+2023-03-11 12:26:19,225 Number of testcases Skipped  : 0 
+2023-03-11 12:26:19,227 Mail sending toggel is set to false 
+2023-03-11 12:26:19,227 Mail sent : false 
+2023-03-11 12:26:19,228 ************************** Test Execution Finished ************************************ 
+2023-03-11 12:27:11,112 ************************** Test Execution Started ************************************ 
+2023-03-11 12:27:15,220 Google search test: Test started 
+2023-03-11 12:27:34,744 Google search test : Test Passed 
+2023-03-11 12:27:35,870 Total number of testcases : 1 
+2023-03-11 12:27:35,870 Number of testcases Passed : 1 
+2023-03-11 12:27:35,870 Number of testcases Failed : 0 
+2023-03-11 12:27:35,870 Number of testcases Skipped  : 0 
+2023-03-11 12:27:35,872 Mail sending toggel is set to false 
+2023-03-11 12:27:35,872 Mail sent : false 
+2023-03-11 12:27:35,872 ************************** Test Execution Finished ************************************ 
+2023-03-11 12:43:35,004 ************************** Test Execution Started ************************************ 
+2023-03-11 12:43:43,724 Google search test: Test started 
+2023-03-11 12:44:20,702 Google search test : Test Passed 
+2023-03-11 12:44:24,651 Total number of testcases : 1 
+2023-03-11 12:44:24,651 Number of testcases Passed : 1 
+2023-03-11 12:44:24,652 Number of testcases Failed : 0 
+2023-03-11 12:44:24,652 Number of testcases Skipped  : 0 
+2023-03-11 12:44:24,659 Mail sending toggel is set to false 
+2023-03-11 12:44:24,659 Mail sent : false 
+2023-03-11 12:44:24,659 ************************** Test Execution Finished ************************************ 
+2023-03-11 12:52:48,946 ************************** Test Execution Started ************************************ 
+2023-03-11 12:52:53,155 Google search test: Test started 
+2023-03-11 12:53:08,181 Google search test : Test Passed 
+2023-03-11 12:53:09,044 Total number of testcases : 1 
+2023-03-11 12:53:09,044 Number of testcases Passed : 1 
+2023-03-11 12:53:09,044 Number of testcases Failed : 0 
+2023-03-11 12:53:09,044 Number of testcases Skipped  : 0 
+2023-03-11 12:53:09,064 Mail sending toggel is set to false 
+2023-03-11 12:53:09,065 Mail sent : false 
+2023-03-11 12:53:09,065 ************************** Test Execution Finished ************************************ 
+2023-03-11 12:59:26,169 ************************** Test Execution Started ************************************ 
+2023-03-11 12:59:30,055 Google search test: Test started 
+2023-03-11 12:59:31,004 Google search test : Test Failed : unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=110.0.5481.178)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-HA83NQG', ip: '127.0.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.178, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\ANKITT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60439}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 516611f9e143fbc41b09057428947d80 
+2023-03-11 12:59:31,724 Total number of testcases : 1 
+2023-03-11 12:59:31,724 Number of testcases Passed : 0 
+2023-03-11 12:59:31,724 Number of testcases Failed : 1 
+2023-03-11 12:59:31,724 Number of testcases Skipped  : 0 
+2023-03-11 12:59:31,727 Mail sending toggel is set to false 
+2023-03-11 12:59:31,727 Mail sent : false 
+2023-03-11 12:59:31,727 ************************** Test Execution Finished ************************************ 
+2023-03-11 13:00:04,734 ************************** Test Execution Started ************************************ 
+2023-03-11 13:00:08,718 Google search test: Test started 
+2023-03-11 13:00:23,945 Google search test : Test Failed : no such element: Unable to locate element: {"method":"css selector","selector":"*[name='q']"}
+  (Session info: chrome=110.0.5481.178)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-HA83NQG', ip: '192.168.100.3', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 110.0.5481.178, chrome: {chromedriverVersion: 110.0.5481.77 (65ed616c6e8e..., userDataDir: C:\Users\ANKITT~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55399}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8fa9922c8d4ff914c52470bee505d27d
+*** Element info: {Using=name, value=q} 
+2023-03-11 13:00:25,221 Total number of testcases : 1 
+2023-03-11 13:00:25,221 Number of testcases Passed : 0 
+2023-03-11 13:00:25,221 Number of testcases Failed : 1 
+2023-03-11 13:00:25,221 Number of testcases Skipped  : 0 
+2023-03-11 13:00:25,224 Mail sending toggel is set to false 
+2023-03-11 13:00:25,224 Mail sent : false 
+2023-03-11 13:00:25,224 ************************** Test Execution Finished ************************************ 
+2023-03-11 13:02:11,579 ************************** Test Execution Started ************************************ 
+2023-03-11 13:02:15,387 Google search test: Test started 
+2023-03-11 13:02:35,834 Google search test : Test Passed 
+2023-03-11 13:02:37,122 Total number of testcases : 1 
+2023-03-11 13:02:37,122 Number of testcases Passed : 1 
+2023-03-11 13:02:37,122 Number of testcases Failed : 0 
+2023-03-11 13:02:37,122 Number of testcases Skipped  : 0 
+2023-03-11 13:02:37,126 Mail sending toggel is set to false 
+2023-03-11 13:02:37,126 Mail sent : false 
+2023-03-11 13:02:37,126 ************************** Test Execution Finished ************************************ 
+2023-03-11 15:41:48,776 ************************** Test Execution Started ************************************ 
+2023-03-11 15:41:51,805 Google search test: Test started 
+2023-03-11 15:42:05,396 Google search test : Test Passed 
+2023-03-11 15:42:05,397 Google search test: Test started 
+2023-03-11 15:42:17,484 Google search test : Test Passed 
+2023-03-11 15:42:17,486 Google search test: Test started 
+2023-03-11 15:42:23,535 Google search test : Test Passed 
+2023-03-11 15:42:23,535 Google search test: Test started 
+2023-03-11 15:42:27,554 Google search test : Test Passed 
+2023-03-11 15:42:27,554 Google search test: Test started 
+2023-03-11 15:42:34,070 Google search test : Test Passed 
+2023-03-11 15:42:34,844 Total number of testcases : 5 
+2023-03-11 15:42:34,844 Number of testcases Passed : 5 
+2023-03-11 15:42:34,844 Number of testcases Failed : 0 
+2023-03-11 15:42:34,844 Number of testcases Skipped  : 0 
+2023-03-11 15:42:34,855 Mail sending toggel is set to false 
+2023-03-11 15:42:34,855 Mail sent : false 
+2023-03-11 15:42:34,855 ************************** Test Execution Finished ************************************ 

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-11T10:11:48Z" name="Suite" finished-at="2023-03-11T10:12:34Z" duration-ms="45731">
+    <groups>
+    </groups>
+    <test started-at="2023-03-11T10:11:48Z" name="Test" finished-at="2023-03-11T10:12:34Z" duration-ms="45731">
+      <class name="example.example.tests.GoogleSearchTest">
+        <test-method is-config="true" signature="globalSetup()[pri:0, instance:example.example.tests.GoogleSearchTest@6c64cb25]" started-at="2023-03-11T10:11:48Z" name="globalSetup" test-instance-name="Google search test" finished-at="2023-03-11T10:11:48Z" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- globalSetup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:example.example.tests.GoogleSearchTest@6c64cb25]" started-at="2023-03-11T10:11:48Z" name="setup" test-instance-name="Google search test" finished-at="2023-03-11T10:11:51Z" duration-ms="2859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="googleImageSearchTest()[pri:0, instance:example.example.tests.GoogleSearchTest@6c64cb25]" started-at="2023-03-11T10:11:51Z" name="googleImageSearchTest" description="Test description" test-instance-name="Google search test" finished-at="2023-03-11T10:12:05Z" duration-ms="13389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleImageSearchTest -->
+        <test-method signature="googleMapSearchTest()[pri:0, instance:example.example.tests.GoogleSearchTest@6c64cb25]" started-at="2023-03-11T10:12:05Z" name="googleMapSearchTest" description="Test description" test-instance-name="Google search test" finished-at="2023-03-11T10:12:16Z" duration-ms="11459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleMapSearchTest -->
+        <test-method signature="googleNewsSearchTest()[pri:0, instance:example.example.tests.GoogleSearchTest@6c64cb25]" started-at="2023-03-11T10:12:17Z" name="googleNewsSearchTest" description="Test description" test-instance-name="Google search test" finished-at="2023-03-11T10:12:23Z" duration-ms="5828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleNewsSearchTest -->
+        <test-method signature="googleSearchTest()[pri:0, instance:example.example.tests.GoogleSearchTest@6c64cb25]" started-at="2023-03-11T10:12:23Z" name="googleSearchTest" description="Test description" test-instance-name="Google search test" finished-at="2023-03-11T10:12:27Z" duration-ms="3799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearchTest -->
+        <test-method signature="googleVideoSearchTest()[pri:0, instance:example.example.tests.GoogleSearchTest@6c64cb25]" started-at="2023-03-11T10:12:27Z" name="googleVideoSearchTest" description="Test description" test-instance-name="Google search test" finished-at="2023-03-11T10:12:33Z" duration-ms="6266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleVideoSearchTest -->
+        <test-method is-config="true" signature="wrapUp()[pri:0, instance:example.example.tests.GoogleSearchTest@6c64cb25]" started-at="2023-03-11T10:12:34Z" name="wrapUp" test-instance-name="Google search test" finished-at="2023-03-11T10:12:34Z" duration-ms="452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapUp -->
+        <test-method is-config="true" signature="wrapAllUp(org.testng.ITestContext)[pri:0, instance:example.example.tests.GoogleSearchTest@6c64cb25]" started-at="2023-03-11T10:12:34Z" name="wrapAllUp" test-instance-name="Google search test" finished-at="2023-03-11T10:12:34Z" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7fcf2fc1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrapAllUp -->
+      </class> <!-- example.example.tests.GoogleSearchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
